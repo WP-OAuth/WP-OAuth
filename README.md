@@ -1,7 +1,6 @@
 WP-OAuth
 ========
-
-***NEWS MAY 2015: I'd like to apologize to the contributors here for being unable to accept pull requests in a timely manner. I did not expect to be receiving so many so early on :) Just wanted to let everyone know that this project hasn't been abandoned, I'm still here and will be addressing pull requests + issues in due time. Thanks for understanding.***
+This plugin is a fork from [perrybutler/WP-OAuth](https://github.com/perrybutler/WP-OAuth). Intention is to coordinate the various push requests here and move the plugin forward with new features.
 
 ![logo](http://files.glassocean.net/github/wp-oauth-logo.png)
 
@@ -29,7 +28,7 @@ FAQ
 ---
 * See the [WordPress Plugin Directory](https://wordpress.org/plugins/wp-oauth/faq/) for details.
 
-Roadmap
+General Roadmap
 -------
 * Full compabitility with WordPress Multisite, BuddyPress, bbpress.
 * Icon sets for the login provider buttons.
@@ -37,6 +36,30 @@ Roadmap
 * Advanced options for account merging.
 * Advanced options for account recovery.
 * More custom login forms, layouts and login screen customization options.
+
+Tasks
+-------
+If you would like to help:
+
+- [ ] Add a Build Tool for Code
+- [ ] Create Unit tests for Code
+- [ ] Implement WordPress Multisite compability 
+- [ ] Icon sets for the login provider buttons.
+- [ ] Tutorial on how to implement a new OAuth provider
+- [ ] Analyze mirgration to [oauth2-client](https://github.com/thephpleague/oauth2-client)  
+
+
+How to Contribute
+-------
+If you would like ot contribute there are plently of options even if you are not an PHP Dev.
+
+* Take a look at the open issues on GitHub try to solve them by ask the right questions and reproducing them.
+* Review pull requests
+* Improve Documentation and create a Wiki entries 
+* Fix Bugs
+* Implement tasks
+
+
 
 History
 -------
